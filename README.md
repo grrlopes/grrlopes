@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @grrlopes
+- 👋 Hi, I’m Gabriel Lopes
 - 👀 I’m interested in build app
 - 🌱 I’m currently learning solid and rust
-- 💞️ I’m looking to collaborate on nodejs, php and python...
+- 💞️ I’m looking to collaborate on nodejs , php and python...
 - 📫 How to reach me "here"...
 
 <!---
